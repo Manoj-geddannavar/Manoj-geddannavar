@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me manojgeddannavar99@gmail.com or 7483614184
+- 📫 How to reach me manojgeddannavar99@gmail.com or 7483614184(whatsapp)
 
 <!---
 Manoj-geddannavar/Manoj-geddannavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
